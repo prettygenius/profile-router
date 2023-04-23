@@ -1,5 +1,4 @@
 
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;800&family=VT323&display=swap');
 
 body {
@@ -108,16 +107,16 @@ main {
 
 /* About Styles */
 
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
-html,
-body {
-	
-	padding: 15px;
-}
+
+
+
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -148,7 +147,7 @@ img {
 	grid-auto-flow: dense;
 }
 .grid-wrapper .wide {
-	grid-column: span 2;
+	grid-column: span 1;
 }
 .grid-wrapper .tall {
 	grid-row: span 2;
