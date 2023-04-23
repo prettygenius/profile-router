@@ -6,7 +6,7 @@ function Home() {
      <div className="panel welcome">
   
       <div>
-        <h1>R. Photography</h1>
+        <h1>R.Photos</h1>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat dignissimos distinctio dolores praesentium iusto! Accusantium aspernatur libero dolor delectus amet.</p>
       </div>
       <footer>
