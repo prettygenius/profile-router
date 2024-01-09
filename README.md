@@ -3,7 +3,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
-[![npm](https://img.shields.io/badge/npm)](https://www.npmjs.com/package/react-router-dom)
 A React app created using Vite, React Router V6 
 This app allows users to toggle between routes on user portfolio
 ## Features
